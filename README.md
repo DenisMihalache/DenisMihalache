@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ2aHhuYW15YWpvMWs1cmIxZDV4a3I4cXgycXUyazFtYWtzbjUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ2aHhuYW15YWpvMWs1cmIxZDV4a3I4cXgycXUyazFtYWtzbjUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="100" height="100" alt="hi gif"/>
 </div>
+
 
 ###
 
@@ -46,9 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode logo"/>
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
